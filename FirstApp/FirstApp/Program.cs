@@ -10,6 +10,8 @@ namespace FirstApp
     {
         static void Main(string[] args)
         {
+
+            //This is the first days work PRG261
             Console.WriteLine("Enter name");
                 string fName = Console.ReadLine();
 
@@ -28,7 +30,7 @@ namespace FirstApp
             Console.ReadKey();
 
 
-            Console.WriteLine("Test to see if the push works");
+            
         }
     }
 }
